@@ -1,6 +1,6 @@
 accelerate==0.27.2
 datasets==2.16.1
-deepspeed==0.14.0
+deepspeed==0.15.1
 einops==0.6.1
 einops-exts==0.0.4
 evaluate==0.4.1
