@@ -21,7 +21,7 @@ pytest==8.0.2
 python_Levenshtein==0.25.0
 pytz==2024.1
 PyYAML==6.0.1
-Requests==2.31.0
+Requests==2.32.4
 sacrebleu==2.4.0
 scikit_learn==1.2.2
 sentencepiece==0.1.99
